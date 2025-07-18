@@ -1,7 +1,7 @@
 
 # Text-to-Animation AI Tool
 
-This project is an AI-powered tool that generates dynamic animations from natural language descriptions using generative AI and the Manim library[^1]. It leverages OpenAI's models to create Manim-compatible Python code, renders animations with customizable quality levels, and delivers them through an interactive Chainlit chat interface.
+This project is an AI-powered tool that generates dynamic animations from natural language descriptions using generative AI and the Manim library. It leverages OpenAI's models to create Manim-compatible Python code, renders animations with customizable quality levels, and delivers them through an interactive Chainlit chat interface.
 
 ## Features
 
