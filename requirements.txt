@@ -4,6 +4,7 @@ langchain
 langchain-openai
 pydantic
 moviepy
+pangocairo
 pillow
 requests
 imageio
