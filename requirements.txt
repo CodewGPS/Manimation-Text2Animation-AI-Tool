@@ -1,4 +1,3 @@
-requirements.txt
 chainlit
 openai
 python-dotenv
