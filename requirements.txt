@@ -6,7 +6,6 @@ pydantic
 moviepy
 pillow
 requests
-pycairo
 imageio
 imageio-ffmpeg
 numpy
