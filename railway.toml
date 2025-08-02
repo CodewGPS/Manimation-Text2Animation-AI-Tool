@@ -1,0 +1,10 @@
+[build]
+pythonVersion = "3.11"
+preInstall = "pip install --upgrade pip"
+nixpacksPlan = { 
+  providers = ["python"],
+  packages = ["pango.dev", "cairo.dev", "pkg-config", "gcc", "ffmpeg", "glib.dev", "gdk-pixbuf.dev", "libffi.dev", "pixman.dev", "python312Packages.setuptools"] 
+}
+
+[deploy]
+startCommand = "chainlit run app.py --host 0.0.0.0 --port $PORT"
