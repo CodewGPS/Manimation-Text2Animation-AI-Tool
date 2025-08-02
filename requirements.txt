@@ -1,4 +1,13 @@
 chainlit
 openai
-python-dotenv
+langchain
+langchain-openai
+pydantic
+moviepy
+pillow
+requests
+pycairo
+imageio
+imageio-ffmpeg
+numpy
 manim
